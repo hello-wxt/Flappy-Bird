@@ -1,0 +1,10 @@
+﻿生成启动时间为 2019/2/19 星期二 20:27:31。
+     1>项目“C:\Users\Administrator\Downloads\flybird\flybird\flybird.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Downloads\flybird\flybird\Debug\flybird.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Downloads\flybird\flybird\Debug\flybird.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Downloads\flybird\flybird\Debug\flybird.lib" /MACHINE:X86 Debug\flybird.obj
+         flybird.vcxproj -> C:\Users\Administrator\Downloads\flybird\flybird\Debug\flybird.exe
+     1>已完成生成项目“C:\Users\Administrator\Downloads\flybird\flybird\flybird.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.07
